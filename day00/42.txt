@@ -1,0 +1,12 @@
+Pwd - Present Working Directory shows me what I am currently working on 
+cd - changes directory or moves it
+Mkdir makes a directory
+Ls is for list and shows your folders and files 
+Touch creates text files
+vim allows you to edit your files
+Cat lets you preview contents in terminal
+Cp is short for copy
+Mv moves files into directory
+Rm removes files or deletes them
+Ascii banner create an art banner with what you type
+Say makes the computer say what you type
